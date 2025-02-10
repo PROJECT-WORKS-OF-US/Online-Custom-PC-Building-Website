@@ -29,6 +29,5 @@ Admins can **add new products**, and users can **register, log in, and shop seam
 - **Storage:** localStorage (for user sessions & product management)  
 
 ---
-
-🚀 **Developed by Mickel Pradeep D**  
+  
 🎯 *Build your own PC with ease!*  
